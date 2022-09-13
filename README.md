@@ -1,2 +1,1 @@
-# memorias
-Curso IBM
+
